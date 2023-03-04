@@ -14,6 +14,7 @@ void waitForAnyKey();
 
 int main(int argc, char **argv)
 {
+    // 增加注释
     CCtrlSystem workCtrl;
     runSystem(workCtrl);
     return 0;
